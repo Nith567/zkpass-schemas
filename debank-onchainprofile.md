@@ -121,10 +121,10 @@ Validation: The amount field is checked to ensure it is greater than 0.0006
 - Go to your profile page(click on profile page) to use your portfolio page information.  
 
 ## Category
-- **onchain-Score**
+- **onchain-Activity**
 
 
 ## Media 
-![Verification amount on opbnb Success](./assets/debank-pass-check.png.png)
+![Verification amount on opbnb Success](./assets/debank-pass-check.png)
 ![Schema-verifaction](./assets/debank-schema.png)
 
