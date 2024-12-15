@@ -106,6 +106,6 @@ Validation: The score field is checked to ensure it is greater than 90
 
 
 ## Media 
-![Verification amount on opbnb Success](./assets/talent-protocol-onchain-score.png)
+![Verification of builderScore](./assets/talent-protocol-onchain-score.png)
 ![Schema-verifaction](./assets/talent-protocol-schema.png)
 
