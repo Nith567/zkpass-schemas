@@ -148,3 +148,11 @@ and For the second schema for hosting :
 ## Category
 - **Social**
 
+
+## Media 
+![Verification Success](./assets/success-luma.png)
+![Attened-events-schema ](./assets/schema-part1-luma.png)
+![Hosted-events-schema ](./assets/schema-part2-luma.png)
+
+
+
