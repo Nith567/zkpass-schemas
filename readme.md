@@ -16,3 +16,5 @@ Debank is a comprehensive portfolio management tool for decentralized finance (D
 
 >Its core features include the Talent Passport, an AI-powered profile that consolidates reputation data, and the $TALENT token, which incentivizes users to contribute verifiable information, enhancing transparency and accessibility in professional networking.
 
+## Lens
+> Lens is a decentralized social network that allows users to create and manage their own profiles.Can verify no.of followers
