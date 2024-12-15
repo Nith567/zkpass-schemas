@@ -1,4 +1,4 @@
-# Luma - Check onchain verified balance amount all major chains- Verification Schema
+# DeBank- Check onchain verified balance amount all major chains- Verification Schema
 
 ## Overview
 
