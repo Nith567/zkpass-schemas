@@ -104,7 +104,7 @@ Validation: The amount field is checked to ensure it is greater than 0.0006
 ## Verification Process
 
 1. **Login to Luma Portal**  
-   Access your account by logging in to the Luma platform at [https://debank.com/](https://debank.com/).
+   Access your account by logging in to the Debank platform at [https://debank.com/](https://debank.com/).
 
 2. **Go to Profile Page**  
    Navigate to your profile page after connecting & signing message with your wallet.

@@ -11,3 +11,8 @@ Created custom schemas using zkpass schema validator extension which are helpful
 
 Debank is a comprehensive portfolio management tool for decentralized finance (DeFi) users, allowing them to track and analyze their investments across nearly 800 protocols on over 15 blockchains
 > It includes features like a Web3 Messenger for communication within the DeFi community, enhancing user engagemen
+
+### Talent Protocol 
+
+>Its core features include the Talent Passport, an AI-powered profile that consolidates reputation data, and the $TALENT token, which incentivizes users to contribute verifiable information, enhancing transparency and accessibility in professional networking.
+
