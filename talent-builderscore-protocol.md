@@ -1,4 +1,4 @@
-# Luma - Check onchain BuilderScore- Verification Schema
+# TalentProtocol - Check onchain BuilderScore- Verification Schema
 
 >Can also check other scores + credentials, even kyc from talent-protocol end (`pending_kyc` field)
 ## Overview
